@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "doc-upload-placeholder",
+      "description": "An illustration showing a document icon and an upload arrow",
+      "imageUrl": "https://picsum.photos/seed/doc-upload/600/400",
+      "imageHint": "document upload"
+    }
+  ]
+}
